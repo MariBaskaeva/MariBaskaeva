@@ -17,7 +17,7 @@
   
   - [Online clothing store (Интернет-магазин одежды)](https://github.com/MariBaskaeva/DressShop)
   - [Cat shelter service (Сервис для приюта котов)](https://github.com/MariBaskaeva/CatShelterService)
-  - [Network chat (Сетевой чат)](https://github.com/MariBaskaeva/NetworkChat)
+  - [Cloud storage (Облачное хранилище)](https://github.com/MariBaskaeva/CloudStorage)
 </p>
 
 <h2>Languages and Tools</h2>
